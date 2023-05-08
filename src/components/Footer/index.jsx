@@ -7,29 +7,24 @@ export const Footer = () => {
         <section className="links">
           <ul>
             <li>
-              <a href="#" target="_blank">
+              <a href="/#" target="_blank">
                 Terms
               </a>
             </li>
             <li>
-              <a href="#" target="_blank">
+              <a href="/#" target="_blank">
                 Privacy
               </a>
             </li>
           </ul>
           <ul>
             <li>
-              <a href="#" target="_blank">
-                Contact
-              </a>
-            </li>
-            <li>
-              <a href="#" target="_blank">
+              <a href="/#" target="_blank">
                 About
               </a>
             </li>
             <li>
-              <a href="#" target="_blank">
+              <a href="/#" target="_blank">
                 Careers
               </a>
             </li>

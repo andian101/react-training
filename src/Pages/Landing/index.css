@@ -1,0 +1,9 @@
+.landing {
+  display: grid;
+  place-content: start start;
+  grid-template-columns: 2fr 1fr;
+}
+
+.landing h1 {
+  margin: 0;
+}

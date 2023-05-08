@@ -1,0 +1,35 @@
+.product {
+    display: flex;
+    flex-direction: column;
+    background: white;
+    color: black;
+}
+
+.product img {
+  display: block;
+  width: 100%;
+}
+
+.product h3 {
+  margin: 0;
+}
+
+.product__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 10px;
+  
+}
+
+.product__buttons {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  justify-content: center;
+  align-items: center;
+  grid-row-gap: 10px;
+}
+
+.product__buttons a {
+  text-align: center;
+}

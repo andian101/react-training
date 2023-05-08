@@ -19,6 +19,6 @@ header .content {
 nav ul {
     list-style-type: none;
     display: grid;
-    grid-template-columns: repeat(2, minMax(40px, 100px));
+    grid-template-columns: repeat(4, minMax(40px, 100px));
     grid-gap: 20px;
 }

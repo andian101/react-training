@@ -1,0 +1,17 @@
+.cart {  
+}
+
+.cart table {
+    width:100%;
+    table-layout: fixed;
+    overflow-wrap: break-word;
+    border-collapse: collapse;
+
+}
+
+.cart tr {
+    border-bottom: .5px solid #fff;
+}
+.cart td {
+    padding: 10px 5px;
+}

@@ -16,6 +16,25 @@ header .content {
     width: 60px;
 }
 
+nav li {
+    position: relative;
+}
+
+.cart-items-counter {
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    display: flex;
+    place-items: center;
+    width: 30px;
+    height: 30px;
+    font-weight: bold;
+    position: absolute;
+    top: -15px;
+    right: 35px;
+}
+
 nav ul {
     list-style-type: none;
     display: grid;

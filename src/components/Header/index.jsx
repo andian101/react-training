@@ -25,6 +25,7 @@ export const Header = () => {
             </li>
             <li>
               <Link to="/cart">Cart</Link>
+              <div className="cart-items-counter">2</div>
             </li>
           </ul>
         </nav>
